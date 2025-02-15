@@ -13,4 +13,5 @@
 - **Backend:** Node.js, Express  
 - **AI API:** Gemini API (for generating names, superpowers, and stories)  
 - **Deployment:** Vercel / Netlify  
+- **Live demo :** [Vercel / Netlify  ](https://heroshaaz.netlify.app/)
 
